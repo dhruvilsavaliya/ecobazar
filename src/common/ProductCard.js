@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import { Badge, Card } from "react-bootstrap";
 import CstmImage from "./CstmImage";

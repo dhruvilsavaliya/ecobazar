@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useState } from "react";
 import CstmImage from "./CstmImage";
 const CartItems = ({src, alt, text, quantity, amount, icon}) => {
